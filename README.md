@@ -14,9 +14,3 @@ A visually appealing landing page for showcasing silver ornament jewelry. This p
 - **CSS**: Styles the page, including layout, colors, and fonts, to enhance the visual appeal.
 - **JavaScript**: Adds interactivity and dynamic elements to the page.
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/eeeeshika21/landing_page.git
